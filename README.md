@@ -5,7 +5,7 @@ These are works done in my second github account - that was before I realized th
 
 # Year 2020 Github Account - Bhupathi2
 
-![Commits works done previous year](https://github.com/bhuphathi/GitHub-Account-bhupathi2-Commits/blob/06a1ef5e17e6c136f72087a2f4a42cf51f58031e/Github%20bhupathi2%20Commits-2021.png)
+![Commits works done previous year](https://github.com/bhuphathi/GitHub-Account-bhupathi2-Commits/blob/144ff54dafebbbe4c77ccdca33f2daf90ee07c15/Github%20bhupathi2%20Commits.png)
 
 # Year 2021 Github Account - Bhupathi2
 
